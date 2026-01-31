@@ -1,13 +1,17 @@
-# Neon Button Hover Effect ✨
+✨ Neon Button Hover Effect
 
-A skewed glowing neon button created using pure HTML & CSS.
+A modern, skewed neon button crafted with pure HTML & CSS, featuring a smooth and eye-catching glow animation on hover.
 
-## Preview
-Hover over the button to see the glowing animation.
+🔍 Preview
 
-## Technologies
-- HTML5
-- CSS3 (pseudo-elements, transitions)
+Hover over the button to experience the vibrant neon glow effect.
 
-## Author
+🛠️ Technologies Used
+
+HTML5
+
+CSS3 (Pseudo-elements, Transitions)
+
+👨‍💻 Author
+
 Mohammad Hosein Gholami
