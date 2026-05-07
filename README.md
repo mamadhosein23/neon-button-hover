@@ -14,4 +14,4 @@ CSS3 (Pseudo-elements, Transitions)
 
 👨‍💻 Author 👨‍💻
 
-Mohammad Hosein Gholami 
+<<<<<< Mohammad Hosein Gholami >>>>>>
